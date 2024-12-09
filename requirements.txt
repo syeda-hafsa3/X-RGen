@@ -1,6 +1,6 @@
 huggingface-hub==0.14.1
 importlib-metadata==6.6.0
-numpy==1.21.6
+numpy
 opencv-python==4.4.0.42
 packaging==23.1
 pandas==1.1.5
